@@ -1,0 +1,14 @@
+File_Flag 2
+M         2048
+N         4096
+L         20
+Gra       1
+gamma     0.010
+A         1.000
+B         0.500
+eta_1     0.100
+beta      0.500
+eta_2     0.000
+omega     1.000
+IS        0.25
+PS        3.00
